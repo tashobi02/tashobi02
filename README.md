@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Object Oriented Programming, Data Structures and Algorithms.** 
 
-* 🌱 I'm also currently working on my problem solving skills to become good at **Competitive Pr0gramming**
+* 🌱 I'm also currently working on my problem solving skills to become good at **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tashobi02](https://github.com/tashobi02)  
   
