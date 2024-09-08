@@ -19,7 +19,7 @@
   
 - 📫 How to reach me **obiditbd@gmail.com**  
   
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Z-1IiycMEa5FtUKLZC6ieEy4zgIcvmBMbzR3OyqiOkg/edit?usp=sharing](https://docs.google.com/document/d/1Z-1IiycMEa5FtUKLZC6ieEy4zgIcvmBMbzR3OyqiOkg/edit?usp=sharing)  
+- 📄 Know about my experiences [https://tinyurl.com/2xw2jrmn](https://tinyurl.com/2xw2jrmn)  
   
 - ⚡ Fun fact **I got the rarest name in the world**  
   
