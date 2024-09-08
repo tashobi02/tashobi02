@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Obidit Islam</h1>  
+<h1 align="center">Hello, I'm Obidit</h1>  
 <h3 align="center">A highly enthusiastic sophomore CS student with a passion who is seeking opportunities to leverage skills involving Programming, Development, and Cybersecurity and explore career options to have a healthy growing life.</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashobi02&label=Profile%20views&color=0e75b6&style=flat" alt="tashobi02" /> </p>  
