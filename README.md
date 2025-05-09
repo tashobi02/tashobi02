@@ -1,71 +1,89 @@
-<h1 align="center">A highly enthusiastic sophomore CS student with a passion who is seeking opportunities to leverage skills involving Programming, Game Development, and ML-AI and explore career options to have a healthy growing life.</h1>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashobi02&label=Profile%20views&color=0e75b6&style=flat" alt="tashobi02" /> </p>  
+<h1 align="center">Hey there! I'm Obidit – A Passionate CS Sophomore 🚀</h1>  
 
-<p align="left"> <a href="https://twitter.com/tashobi_02" target="blank"><img src="https://img.shields.io/twitter/follow/tashobi_02?logo=twitter&style=for-the-badge" alt="tashobi_02" /></a> </p>  
+<p align="center">A highly enthusiastic sophomore CS student passionate about Programming, Game Development, and AI/ML. I'm actively seeking opportunities to grow, build impactful projects, and live a healthy, evolving life.</p>  
 
-- 🌱 I’m currently learning **Visual Programming** and **Advanced Algorithms**.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tashobi02&label=Profile%20views&color=0e75b6&style=flat" alt="tashobi02" />
+</p>  
 
-- 🎮 I’m also working on **Game Development using Unity**.
-
-- 🧠 Improving my problem-solving skills through **Competitive Programming**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/tashobi02](https://github.com/tashobi02)  
-
-- 💬 Ask me about **beginner-level Competitive Programming** topics.
-
-- 🏋️ Enthusiastic about working out and **calisthenics**.
-
-- 🎮 Lifelong gamer and a huge fan of **Soulsborne games**.
-
-- 📫 Reach me at **obiditbd@gmail.com**  
-
-- 📄 Learn more about my experiences: [https://tinyurl.com/2xw2jrmn](https://tinyurl.com/2xw2jrmn)  
-
----
-
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://twitter.com/tashobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tashobi_02" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/obidit-islam-a74249212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obidit-islam-a74249212" height="30" width="40" /></a>  
-<a href="https://fb.com/obiditislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obiditislam" height="30" width="40" /></a>  
-<a href="https://instagram.com/tashobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tashobi_02" height="30" width="40" /></a>  
-<a href="https://www.codechef.com/users/tashobi_02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tashobi_02" height="30" width="40" /></a>  
-<a href="https://codeforces.com/profile/tashobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tashobi_02" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/tashobi_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tashobi_02" height="30" width="40" /></a>  
+<p align="left"> 
+  <a href="https://twitter.com/tashobi_02" target="blank">
+    <img src="https://img.shields.io/twitter/follow/tashobi_02?logo=twitter&style=for-the-badge" alt="tashobi_02" />
+  </a> 
 </p>  
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>  
+### 👨‍💻 About Me  
+- 🌱 Currently learning **Visual Programming** and **Advanced Algorithms**  
+- 🎮 Working on **Game Development with Unity**  
+- 🧠 Sharpening my skills through **Competitive Programming**  
+- 📂 Check out my projects: [GitHub Portfolio](https://github.com/tashobi02)  
+- 💬 Ask me about **beginner-friendly CP concepts**  
+- 🏋️ Into fitness, especially **calisthenics**  
+- 🎮 Huge fan of **Soulsborne games**  
+- 📫 Reach me at: **obiditbd@gmail.com**  
+- 📄 Know more about my journey: [My Resume](https://shorturl.at/Geywq)
+
+---
+
+### 🔗 Connect with Me  
+<p align="left">  
+  <a href="https://twitter.com/tashobi_02" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>  
+  <a href="https://linkedin.com/in/obidit-islam-a74249212" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>  
+  <a href="https://fb.com/obiditislam" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  </a>  
+  <a href="https://instagram.com/tashobi_02" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>  
+  <a href="https://www.codechef.com/users/tashobi_02" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
+  </a>  
+  <a href="https://codeforces.com/profile/tashobi_02" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+  </a>  
+  <a href="https://www.leetcode.com/tashobi_02" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>  
+</p>  
+
+---
+
+### 🛠️ Languages & Tools  
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> 
+  </a> 
 </p>  
 
 ---
