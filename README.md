@@ -1,27 +1,21 @@
 
-<h1 align="center">Hey there! I'm Obidit – A Passionate CS Sophomore 🚀</h1>  
+<h1 align="center">Hey! I'm Obidit, A Passionate CS Junior 🚀</h1>  
 
-<p align="center">A highly enthusiastic sophomore CS student passionate about Programming, Game Development, and AI/ML. I'm actively seeking opportunities to grow, build impactful projects, and live a healthy, evolving life.</p>  
+<p align="center">An enthusiastic junior CS student passionate about Programming, Game Development, and AI/ML. I'm actively seeking opportunities to grow, build impactful projects, and live a healthy, evolving life.</p>  
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tashobi02&label=Profile%20views&color=0e75b6&style=flat" alt="tashobi02" />
 </p>  
 
-<p align="left"> 
-  <a href="https://twitter.com/tashobi_02" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tashobi_02?logo=twitter&style=for-the-badge" alt="tashobi_02" />
-  </a> 
-</p>  
-
 ---
 
 ### 👨‍💻 About Me  
-- 🌱 Currently learning **Visual Programming** and **Advanced Algorithms**  
+- 🌱 Currently learning **Full Stack Web Development** and **Advanced Algorithms**  
 - 🎮 Working on **Game Development with Unity**  
 - 🧠 Sharpening my skills through **Competitive Programming**  
 - 📂 Check out my projects: [GitHub Portfolio](https://github.com/tashobi02)  
 - 💬 Ask me about **beginner-friendly CP concepts**  
-- 🏋️ Into fitness, especially **calisthenics**  
+- 🏋️ Into fitness, body building, especially **calisthenics**  
 - 🎮 Huge fan of **Soulsborne games**  
 - 📫 Reach me at: **obiditbd@gmail.com**  
 - 📄 Know more about my journey: [My Resume](https://shorturl.at/Geywq)
