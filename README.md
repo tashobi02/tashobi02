@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey! I'm Obidit, A Passionate CS Junior 🚀</h1>  
 
-<p align="center">An enthusiastic junior CS student passionate about Programming, Game Development, and AI/ML. I'm actively seeking opportunities to grow, build impactful projects, and live a healthy, evolving life.</p>  
+<p align="center">An enthusiastic junior CS student passionate about Programming and AI/ML. I'm actively seeking opportunities to grow, build impactful projects, and live a healthy, evolving life.</p>  
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tashobi02&label=Profile%20views&color=0e75b6&style=flat" alt="tashobi02" />
@@ -11,7 +11,6 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **Full Stack Web Development** and **Advanced Algorithms**  
-- 🎮 Working on **Game Development with Unity**  
 - 🧠 Sharpening my skills through **Competitive Programming**  
 - 📂 Check out my projects: [GitHub Portfolio](https://github.com/tashobi02)  
 - 💬 Ask me about **beginner-friendly CP concepts**  
