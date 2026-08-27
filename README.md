@@ -10,9 +10,6 @@
   <a href="https://github.com/tashobi02">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub Portfolio" />
   </a>
-  <a href="https://shorturl.at/Geywq">
-    <img src="https://img.shields.io/badge/Resume-View-informational?style=for-the-badge&logo=readme" alt="Resume" />
-  </a>
   <a href="mailto:obiditbd@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
