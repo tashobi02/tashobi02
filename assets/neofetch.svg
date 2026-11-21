@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="490" viewBox="0 0 1000 490" role="img" aria-label="neofetch on Arch Linux: obidit@archlinux. Shell zsh, IUT Dhaka CSE class of 2027, researching affective game AI and LLM model editing, building something classified, reveal soon. I use Arch, btw.">
+  <defs>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#1793d1" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#1793d1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="archfill" gradientUnits="userSpaceOnUse" x1="0" y1="100" x2="0" y2="420">
+      <stop offset="0" stop-color="#4fc3f7"/>
+      <stop offset="1" stop-color="#1793d1"/>
+    </linearGradient>
+    <style>
+      text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 17px; white-space: pre; }
+      .logo { font-size: 14px; font-weight: 700; }
+      .k { fill: #1793d1; font-weight: 700; }
+      .v { fill: #c0caf5; }
+      .dim { fill: #565f89; }
+      .u { fill: #1793d1; font-weight: 700; }
+      .acc { fill: #4fc3f7; font-weight: 700; }
+      .btw { fill: #9ece6a; }
+      .line { opacity: 0; animation: in 0.3s ease-out forwards; }
+      .glow { transform-box: fill-box; transform-origin: center; animation: pulse 3.2s ease-in-out infinite; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: translateX(0); } }
+      @keyframes pulse { 0%,100% { opacity: 0.7; transform: scale(1); } 50% { opacity: 1; transform: scale(1.06); } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) {
+        .line { animation: none; opacity: 1; }
+        .glow, .cursor { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <!-- window -->
+  <rect x="6" y="6" width="988" height="478" rx="14" fill="#1a1b27" stroke="#2f334d" stroke-width="1.5"/>
+  <circle cx="34" cy="32" r="6.5" fill="#f7768e"/>
+  <circle cx="56" cy="32" r="6.5" fill="#e0af68"/>
+  <circle cx="78" cy="32" r="6.5" fill="#9ece6a"/>
+  <text x="500" y="37" text-anchor="middle" class="dim" style="font-size:14px">obidit@archlinux: ~ (zsh)</text>
+  <line x1="6" y1="56" x2="994" y2="56" stroke="#2f334d" stroke-width="1.5"/>
+
+  <!-- arch logo (neofetch ascii) -->
+  <ellipse class="glow" cx="205" cy="270" rx="200" ry="170" fill="url(#glow)"/>
+  <g style="fill:url(#archfill)">
+    <text x="40" y="118.0" class="logo line" style="animation-delay:0.00s">                   -`</text>
+    <text x="40" y="134.5" class="logo line" style="animation-delay:0.04s">                  .o+`</text>
+    <text x="40" y="151.0" class="logo line" style="animation-delay:0.08s">                 `ooo/</text>
+    <text x="40" y="167.5" class="logo line" style="animation-delay:0.12s">                `+oooo:</text>
+    <text x="40" y="184.0" class="logo line" style="animation-delay:0.16s">               `+oooooo:</text>
+    <text x="40" y="200.5" class="logo line" style="animation-delay:0.20s">               -+oooooo+:</text>
+    <text x="40" y="217.0" class="logo line" style="animation-delay:0.24s">             `/:-:++oooo+:</text>
+    <text x="40" y="233.5" class="logo line" style="animation-delay:0.28s">            `/++++/+++++++:</text>
+    <text x="40" y="250.0" class="logo line" style="animation-delay:0.32s">           `/++++++++++++++:</text>
+    <text x="40" y="266.5" class="logo line" style="animation-delay:0.36s">          `/+++ooooooooooooo/`</text>
+    <text x="40" y="283.0" class="logo line" style="animation-delay:0.40s">         ./ooosssso++osssssso+`</text>
+    <text x="40" y="299.5" class="logo line" style="animation-delay:0.44s">        .oossssso-````/ossssss+`</text>
+    <text x="40" y="316.0" class="logo line" style="animation-delay:0.48s">       -osssssso.      :ssssssso.</text>
+    <text x="40" y="332.5" class="logo line" style="animation-delay:0.52s">      :osssssss/        osssso+++.</text>
+    <text x="40" y="349.0" class="logo line" style="animation-delay:0.56s">     /ossssssss/        +ssssooo/-</text>
+    <text x="40" y="365.5" class="logo line" style="animation-delay:0.60s">   `/ossssso+/:-        -:/+osssso+-</text>
+    <text x="40" y="382.0" class="logo line" style="animation-delay:0.64s">  `+sso+:-`                 `.-/+oso:</text>
+    <text x="40" y="398.5" class="logo line" style="animation-delay:0.68s"> `++:.                           `-/+/</text>
+    <text x="40" y="415.0" class="logo line" style="animation-delay:0.72s"> .`                                 `/</text>
+  </g>
+
+  <!-- neofetch info -->
+  <text x="420" y="96" class="line" style="animation-delay:0.05s"><tspan class="dim">[</tspan><tspan class="u">obidit@archlinux</tspan><tspan class="v"> ~</tspan><tspan class="dim">]$</tspan><tspan class="v"> neofetch</tspan></text>
+  <text x="420" y="132" class="line acc" style="font-size:21px; animation-delay:0.8s">obidit<tspan class="dim">@</tspan>archlinux</text>
+  <rect x="420" y="144" width="190" height="2" rx="1" fill="#1793d1" class="line" style="animation-delay:0.85s"/>
+    <text x="420" y="176" class="line" style="animation-delay:0.90s"><tspan class="k">OS</tspan><tspan x="540" class="v">Arch Linux x86_64</tspan></text>
+    <text x="420" y="202" class="line" style="animation-delay:1.02s"><tspan class="k">Shell</tspan><tspan x="540" class="v">zsh</tspan></text>
+    <text x="420" y="228" class="line" style="animation-delay:1.14s"><tspan class="k">Uni</tspan><tspan x="540" class="v">IUT Dhaka, CSE class of 2027</tspan></text>
+    <text x="420" y="254" class="line" style="animation-delay:1.26s"><tspan class="k">Research</tspan><tspan x="540" class="v">Affective game AI, LLM model editing</tspan></text>
+    <text x="420" y="280" class="line" style="animation-delay:1.38s"><tspan class="k">Building</tspan><tspan x="540" fill="#414868">█████████</tspan><tspan class="btw"> classified, reveal soon</tspan></text>
+    <text x="420" y="306" class="line" style="animation-delay:1.50s"><tspan class="k">Stack</tspan><tspan x="540" class="v">C++, Python, TypeScript, PyTorch</tspan></text>
+    <text x="420" y="332" class="line" style="animation-delay:1.62s"><tspan class="k">Hobbies</tspan><tspan x="540" class="v">Bodybuilding, swimming, driving</tspan></text>
+    <text x="420" y="358" class="line" style="animation-delay:1.74s"><tspan class="k">Playing</tspan><tspan x="540" class="v">Soulsborne games</tspan></text>
+    <text x="420" y="384" class="line" style="animation-delay:1.86s"><tspan class="k">Name</tspan><tspan x="540" class="v">one of the rarest in the world</tspan></text>
+  <g class="line" style="animation-delay:1.98s"><rect x="420" y="404" width="30" height="16" fill="#f7768e"/><rect x="450" y="404" width="30" height="16" fill="#ff9e64"/><rect x="480" y="404" width="30" height="16" fill="#e0af68"/><rect x="510" y="404" width="30" height="16" fill="#9ece6a"/><rect x="540" y="404" width="30" height="16" fill="#73daca"/><rect x="570" y="404" width="30" height="16" fill="#7dcfff"/><rect x="600" y="404" width="30" height="16" fill="#1793d1"/><rect x="630" y="404" width="30" height="16" fill="#bb9af7"/></g>
+  <text x="420" y="454" class="line" style="animation-delay:2.18s"><tspan class="dim">[</tspan><tspan class="u">obidit@archlinux</tspan><tspan class="v"> ~</tspan><tspan class="dim">]$</tspan><tspan class="btw"> # I use Arch, btw </tspan><tspan class="v cursor">█</tspan></text>
+</svg>
