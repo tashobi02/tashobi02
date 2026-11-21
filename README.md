@@ -3,7 +3,8 @@
 <!-- ===================================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e3a8a,100:06b6d4&height=220&section=header&text=Hi%2C%20I%27m%20Obidit%20Islam%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=37&desc=Computer%20Science%20Senior%20%E2%80%A2%20ML%2FAI%20Systems%20%E2%80%A2%20Game%20AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Hi, I'm Obidit Islam — Computer Science Senior, ML/AI Systems, Game AI" width="100%" />
+  <!-- banner is cut into strips so each tile is its own link; keep this on one line -->
+  <a href="#-about-me" title="Hi, I'm Obidit Islam. Computer Science Senior, ML/AI Systems, Game AI. Explore: About me"><img src="assets/banner/home-0.svg" width="28.3333%" alt="Hi, I'm Obidit Islam. Computer Science Senior, ML/AI Systems, Game AI. Explore: About me" title="Hi, I'm Obidit Islam. Computer Science Senior, ML/AI Systems, Game AI. Explore: About me" /></a><a href="#-research--highlights" title="Game AI: research and highlights"><img src="assets/banner/home-1.svg" width="8.3333%" alt="Game AI: research and highlights" title="Game AI: research and highlights" /></a><a href="https://github.com/tashobi02?tab=repositories" title="Code: all repositories"><img src="assets/banner/home-2.svg" width="8.3333%" alt="Code: all repositories" title="Code: all repositories" /></a><a href="https://archlinux.org" title="Arch Linux, btw"><img src="assets/banner/home-3.svg" width="8.3333%" alt="Arch Linux, btw" title="Arch Linux, btw" /></a><a href="https://instagram.com/tashobi_02" title="Bodybuilding"><img src="assets/banner/home-4.svg" width="8.3333%" alt="Bodybuilding" title="Bodybuilding" /></a><a href="https://instagram.com/tashobi_02" title="Swimming"><img src="assets/banner/home-5.svg" width="8.3333%" alt="Swimming" title="Swimming" /></a><a href="https://instagram.com/tashobi_02" title="Driving"><img src="assets/banner/home-6.svg" width="8.3333%" alt="Driving" title="Driving" /></a><a href="https://github.com/tashobi02" title="Classified project: follow to catch the reveal"><img src="assets/banner/home-7.svg" width="8.3333%" alt="Classified project: follow to catch the reveal" title="Classified project: follow to catch the reveal" /></a><a href="https://linkedin.com/in/obidit-islam-a74249212" title="LinkedIn"><img src="assets/banner/home-8.svg" width="13.3333%" alt="LinkedIn" title="LinkedIn" /></a>
 </div>
 
 <div align="center">
@@ -114,19 +115,27 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=tashobi02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8&icon_color=7aa2f7" alt="Obidit's GitHub Stats" />
-  &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashobi02&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8" alt="Obidit's Most Used Languages" />
-</p>
+<br />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tashobi02&theme=tokyonight&hide_border=true&background=1A1B27&ring=38BDF8&fire=38BDF8&currStreakLabel=7AA2F7" alt="Obidit's GitHub Streak" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=tashobi02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8&icon_color=7aa2f7" alt="Obidit's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashobi02&layout=compact&langs_count=6&card_width=395&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8" alt="Obidit's Most Used Languages" />
 </p>
+
+<br />
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=tashobi02&theme=tokyonight&hide_border=true&background=1A1B27&ring=38BDF8&fire=38BDF8&currStreakLabel=7AA2F7" alt="Obidit's GitHub Streak" />
+</p>
+
+<br />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tashobi02&bg_color=1a1b27&color=c0caf5&line=38bdf8&point=7aa2f7&area=true&area_color=38bdf8&hide_border=true" alt="Obidit's Contribution Activity Graph" width="96%" />
 </p>
+
+<br />
 
 <p align="center">
   <picture>
@@ -143,5 +152,5 @@
 <!-- ===================================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1e3a8a,100:0f172a&height=110&section=footer" alt="Footer wave banner" width="100%" />
+  <img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
 </div>

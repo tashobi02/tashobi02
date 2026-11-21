@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3c8f"/><stop offset=".55" stop-color="#071a45"/><stop offset="1" stop-color="#030816"/></linearGradient>
+    <linearGradient id="rib" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#93c5fd" stop-opacity="0"/><stop offset=".5" stop-color="#bfdbfe" stop-opacity=".55"/><stop offset="1" stop-color="#93c5fd" stop-opacity="0"/></linearGradient>
+    <clipPath id="card"><rect width="1200" height="150" rx="20"/></clipPath>
+    <filter id="soft" x="-10%" y="-50%" width="120%" height="200%"><feGaussianBlur stdDeviation="5"/></filter>
+    <style>
+      text { font-family: 'Segoe UI', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+      .drift { animation: drift ease-in-out infinite alternate; }
+      .rib { animation: sway 14s ease-in-out infinite alternate; }
+      .rib2 { animation: sway 18s ease-in-out infinite alternate-reverse; }
+      @keyframes drift { from { transform: translate(0,0); } to { transform: translate(var(--dx), -14px); } }
+      @keyframes sway { from { transform: translateX(-50px); } to { transform: translateX(50px); } }
+      @media (prefers-reduced-motion: reduce) { .drift, .rib, .rib2 { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="150" fill="url(#bg)"/>
+    <g filter="url(#soft)">
+      <path class="rib" d="M-100 110 C 200 60, 500 150, 800 90 S 1150 50, 1300 80" stroke="url(#rib)" stroke-width="3" fill="none"/>
+      <path class="rib2" d="M-100 130 C 260 90, 560 160, 860 115 S 1180 80, 1300 105" stroke="url(#rib)" stroke-width="2" fill="none"/>
+    </g>
+    <circle class="drift" cx="544" cy="83" r="2" fill="#dbeafe" style="--dx:-2px;animation-duration:9.3s;animation-delay:-1.5s;opacity:0.65"/><circle class="drift" cx="571" cy="90" r="1.1" fill="#dbeafe" style="--dx:-16px;animation-duration:6.5s;animation-delay:-0.7s;opacity:0.65"/><circle class="drift" cx="828" cy="15" r="2" fill="#dbeafe" style="--dx:19px;animation-duration:8.3s;animation-delay:-4.9s;opacity:0.33"/><circle class="drift" cx="28" cy="79" r="0.8" fill="#dbeafe" style="--dx:-19px;animation-duration:9.4s;animation-delay:-4.8s;opacity:0.64"/><circle class="drift" cx="395" cy="87" r="1.1" fill="#dbeafe" style="--dx:1px;animation-duration:8.2s;animation-delay:-4.0s;opacity:0.58"/><circle class="drift" cx="550" cy="46" r="0.8" fill="#dbeafe" style="--dx:8px;animation-duration:6.6s;animation-delay:-1.8s;opacity:0.39"/><circle class="drift" cx="93" cy="110" r="2" fill="#dbeafe" style="--dx:-16px;animation-duration:6.5s;animation-delay:-0.5s;opacity:0.26"/><circle class="drift" cx="818" cy="38" r="0.8" fill="#dbeafe" style="--dx:-1px;animation-duration:9.9s;animation-delay:-3.2s;opacity:0.29"/><circle class="drift" cx="753" cy="111" r="1.5" fill="#dbeafe" style="--dx:-7px;animation-duration:6.6s;animation-delay:-0.1s;opacity:0.46"/><circle class="drift" cx="1099" cy="27" r="0.8" fill="#dbeafe" style="--dx:-20px;animation-duration:7.3s;animation-delay:-3.9s;opacity:0.59"/><circle class="drift" cx="232" cy="76" r="1.1" fill="#dbeafe" style="--dx:-3px;animation-duration:6.9s;animation-delay:-3.2s;opacity:0.75"/><circle class="drift" cx="11" cy="122" r="1.5" fill="#dbeafe" style="--dx:20px;animation-duration:5.1s;animation-delay:-1.5s;opacity:0.75"/><circle class="drift" cx="720" cy="85" r="0.8" fill="#dbeafe" style="--dx:20px;animation-duration:6.1s;animation-delay:-2.1s;opacity:0.64"/><circle class="drift" cx="398" cy="49" r="0.8" fill="#dbeafe" style="--dx:-17px;animation-duration:6.0s;animation-delay:-5.1s;opacity:0.26"/><circle class="drift" cx="445" cy="91" r="1.1" fill="#dbeafe" style="--dx:18px;animation-duration:7.4s;animation-delay:-4.6s;opacity:0.68"/><circle class="drift" cx="226" cy="30" r="1.1" fill="#dbeafe" style="--dx:13px;animation-duration:6.2s;animation-delay:-1.5s;opacity:0.62"/><circle class="drift" cx="1120" cy="36" r="2" fill="#dbeafe" style="--dx:15px;animation-duration:8.0s;animation-delay:-3.4s;opacity:0.30"/><circle class="drift" cx="56" cy="135" r="1.1" fill="#dbeafe" style="--dx:10px;animation-duration:7.0s;animation-delay:-3.4s;opacity:0.70"/><circle class="drift" cx="589" cy="78" r="0.8" fill="#dbeafe" style="--dx:-15px;animation-duration:7.4s;animation-delay:-5.2s;opacity:0.56"/><circle class="drift" cx="97" cy="38" r="1.1" fill="#dbeafe" style="--dx:10px;animation-duration:5.3s;animation-delay:-3.3s;opacity:0.37"/><circle class="drift" cx="65" cy="47" r="1.1" fill="#dbeafe" style="--dx:-16px;animation-duration:5.7s;animation-delay:-3.6s;opacity:0.42"/><circle class="drift" cx="875" cy="78" r="1.1" fill="#dbeafe" style="--dx:4px;animation-duration:9.6s;animation-delay:-3.8s;opacity:0.43"/>
+    <text x="600" y="72" text-anchor="middle" style="font-size:26px;font-weight:600;fill:#ffffff">Thanks for stopping by</text>
+    <text x="600" y="104" text-anchor="middle" style="font-size:16px;fill:#9fb3d9">See you on the next commit</text>
+  </g>
+</svg>
